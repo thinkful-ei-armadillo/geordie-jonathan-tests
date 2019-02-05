@@ -1,0 +1,29 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders expected list 1`] = `
+<section
+  className="List"
+>
+  <header
+    className="List-header"
+  >
+    <h2 />
+    <p />
+  </header>
+  <div
+    className="List-cards"
+  >
+    <div
+      className="Card"
+    >
+      <h3>
+        title
+      </h3>
+      <p>
+        content
+      </p>
+      <p />
+    </div>
+  </div>
+</section>
+`;
